@@ -10,7 +10,7 @@
 ---
 
 
-![Banner](dashboard_images/Gemini_Generated_Image_gzkjo9gzkjo9gzkj (1).png)
+![Banner](dashboard_images/Gemini_Generated_Image_gzkjo9gzkjo9gzkj%(1).png)
 
 ---
 
