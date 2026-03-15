@@ -86,7 +86,16 @@ Key highlights:
 - 📉 RMSE: 4.2%
 - 📊 Avg Completion Rate: 55.11%
 - 💡 Forecasted project completion & budget variance trends
- 
+
+
+## 📥 Downloads
+
+- 📊 [Power BI Dashboard (.pbix)](Gyanankur%20Fintech%20Project%20Management%20Report.pbix)
+- 📄 [Final Report (PDF)](docs/MS%20Elevate%20Fintech%20PM%20report.pdf)
+- 🎤 [Final PPTX Submission](docs/Gyanankur%20Baruah%20MS%20Elevate%20Final%20PPTX%20Submission%20March%202026.pdf)
+- 📓 [Notebook (PDF Export)](notebooks/fintech_pm_ntbk_0_36570000_1773575624.pdf)
+
+  
 ## 🙏 Acknowledgements
 
 Grateful to Microsoft, AICTE, and Edunet Foundation for this internship opportunity.
