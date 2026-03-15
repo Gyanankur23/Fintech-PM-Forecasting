@@ -1,13 +1,16 @@
 # 🚀 Fintech Project Management – Microsoft Elevate AICTE Internship
 
-![Banner](dashboard_images/Screenshot%202026-03-14%20231730.png)
-
 
 [![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow)](https://powerbi.microsoft.com/)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gyanankur23/Fintech-PM-Forecasting/blob/main/notebooks/Fintech_PM_Analysis.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Gyanankur23/Fintech-PM-Forecasting)](https://github.com/Gyanankur23/Fintech-PM-Forecasting)
 [![Last Commit](https://img.shields.io/github/last-commit/Gyanankur23/Fintech-PM-Forecasting)](https://github.com/Gyanankur23/Fintech-PM-Forecasting/commits/main)
+
+---
+
+
+![Banner](dashboard_images/Gemini_Generated_Image_gzkjo9gzkjo9gzkj (1).png)
 
 ---
 
