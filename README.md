@@ -8,9 +8,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Gyanankur23/Fintech-PM-Forecasting)](https://github.com/Gyanankur23/Fintech-PM-Forecasting/commits/main)
 
 ---
-
-![Banner](dashboard_images/Gemini_Generated_Image_gzkjo9gzkjo9gzkj%281%29.png)
-
+![Banner](dashboard_images/Gemini_Generated_Image_gzkjo9gzkjo9gzkj%20%281%29.png)
 ---
 
 ## 📖 Overview
