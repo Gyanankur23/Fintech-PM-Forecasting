@@ -46,7 +46,7 @@ Key highlights:
 
 ---
 
-## 📊 Dashboards
+## 📊 Dashboard Images
 ### Project Overview
 ![Project Overview](dashboard_images/Screenshot%202026-03-14%20231730.png)
 
