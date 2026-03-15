@@ -1,6 +1,7 @@
 # 🚀 Fintech Project Management – Microsoft Elevate AICTE Internship
 
-![Banner](dashboard_images/fintech_banner.png)
+![Banner](dashboard_images/Screenshot%202026-03-14%20231730.png)
+
 
 [![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow)](https://powerbi.microsoft.com/)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gyanankur23/Fintech-PM-Forecasting/blob/main/notebooks/Fintech_PM_Analysis.ipynb)
@@ -25,12 +26,19 @@ Key highlights:
 
 ## 📂 Repository Structure
 ```
-├── dashboard_images/        # Screenshots of dashboards
-├── notebooks/               # Google Colab & Jupyter notebooks
-├── Gyanankur_Fintech_PM_Report.pdf
-├── Gyanankur_Fintech_PM_PPTX.pdf
-├── README.md
-└── LICENSE
+├── dashboard_images/        # Screenshots of dashboards │
+  ├── Screenshot 2026-03-14 231730.png │
+  ├── Screenshot 2026-03-14 232052.png │
+  └── Screenshot 2026-03-14 232134.png
+├── docs/                # Reports & PPTX │
+  ├── Gyanankur Baruah MS Elevate Final PPTX Submission March 2026.pdf │
+  └── MS Elevate Fintech PM report.pdf
+├── notebooks/               # Jupyter/Colab notebooks │
+  └── fintech_pm_ntbk_0_36570000_1773575624.pdf
+├── Gyanankur Fintech Project Management Report.pbix
+├── LICENSE
+└── README.md
+
 
 ```
 
@@ -40,19 +48,19 @@ Key highlights:
 
 ## 📊 Dashboards
 ### Project Overview
-![Project Overview](dashboard_images/project_overview.png)
+![Project Overview](dashboard_images/Screenshot%202026-03-14%20231730.png)
 
 ### Employee & Department Performance
-![Employee Performance](dashboard_images/employee_performance.png)
+![Employee Performance](dashboard_images/Screenshot%202026-03-14%20232052.png)
 
 ### Regional Insights
-![Regional Performance](dashboard_images/regional_performance.png)
+![Regional Performance](dashboard_images/Screenshot%202026-03-14%20232134.png)
 
 ---
 
 ## 📑 Reports & Presentations
-- 📄 [Final Report (PDF)](Gyanankur_Fintech_PM_Report.pdf)  
-- 🎤 [Final PPTX Submission](Gyanankur_Fintech_PM_PPTX.pdf)  
+- 📄 [Final Report (PDF)](docs/MS%20Elevate%20Fintech%20PM%20report.pdf)  
+- 🎤 [Final PPTX Submission](docs/Gyanankur%20Baruah%20MS%20Elevate%20Final%20PPTX%20Submission%20March%202026.pdf)  
 
 ---
 
@@ -90,4 +98,6 @@ Advanced ML models - (LSTM, Gradient Boosting, Ensemble)
 ## 📌 License
 
 This project is licensed under the MIT LICENSE.
+
+#PowerBI #DataAnalytics #FintechProjectManagement #MicrosoftElevate #AICTEInternship #EdunetFoundation #BusinessIntelligence #CapstoneProject #DataStorytelling #LearningJourney #ProfessionalGrowth
 
