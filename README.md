@@ -6,6 +6,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Gyanankur23/Fintech-PM-Forecasting)](https://github.com/Gyanankur23/Fintech-PM-Forecasting)
 [![Last Commit](https://img.shields.io/github/last-commit/Gyanankur23/Fintech-PM-Forecasting)](https://github.com/Gyanankur23/Fintech-PM-Forecasting/commits/main)
+[![Stars](https://img.shields.io/github/stars/Gyanankur23/Fintech-PM-Forecasting?style=for-the-badge&logo=github)](https://github.com/Gyanankur23/Fintech-PM-Forecasting/stargazers)
+[![Forks](https://img.shields.io/github/forks/Gyanankur23/Fintech-PM-Forecasting?style=for-the-badge&logo=github)](https://github.com/Gyanankur23/Fintech-PM-Forecasting/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/Gyanankur23/Fintech-PM-Forecasting?style=for-the-badge&logo=git)](https://github.com/Gyanankur23/Fintech-PM-Forecasting/commits/main)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Gyanankur23.Fintech-PM-Forecasting)
+
+
 
 ---
 ![Banner](dashboard_images/Gemini_Generated_Image_gzkjo9gzkjo9gzkj%20%281%29.png)
